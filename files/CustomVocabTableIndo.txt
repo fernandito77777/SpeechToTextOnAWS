@@ -1,0 +1,4 @@
+Phrase	IPA	SoundsLike	DisplayAs
+wawancara			WACANA
+anda			ANDA
+
