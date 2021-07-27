@@ -146,7 +146,7 @@ Once it's done, let's check the result.
 ![](../images/CustomVocab/43.png)
 
 
-44. open your json file using your text editor. For mac user, to make the json file looks better, click `Shift + Option + F`
+44. open your json file using your text editor (I'm using VS Code). To make the json file looks better, click `Shift + Option + F` (Mac user), click `Shift + Alt + F` (Windows), click `Ctrl + Shift + l` (Linux)
 
 ![](../images/CustomVocab/44.png)
 
@@ -169,7 +169,7 @@ as you see, there will be `Transcript` part on JSON. on the list format, it will
 ![](../images/CustomVocab/48.png)
 
 
-49. open your json file using your text editor. For mac user, to make the json file looks better, click `Shift + Option + F`
+49. open your json file using your text editor (I'm using VS Code). To make the json file looks better, click `Shift + Option + F` (Mac user), click `Shift + Alt + F` (Windows), click `Ctrl + Shift + l` (Linux)
 
 ![](../images/CustomVocab/49.png)
 

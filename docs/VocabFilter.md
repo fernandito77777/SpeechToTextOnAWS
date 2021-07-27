@@ -72,7 +72,7 @@ give it around 3 minutes to run the job. Once it's done, let's check it.
 ![](../images/VocabFilter/24.png)
 
 
-25. open your json file using your text editor. For mac user, to make the json file looks better, click `Shift + Option + F`
+25. open your json file using your text editor (I'm using VS Code). To make the json file looks better, click `Shift + Option + F` (Mac user), click `Shift + Alt + F` (Windows), click `Ctrl + Shift + l` (Linux)
 
 ![](../images/VocabFilter/25.png)
 
